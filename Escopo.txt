@@ -1,0 +1,22 @@
+Projeto app Campeonato de VideoGame
+
+Ao realizar compeonatos de futebol virtual como dois ou mais consoles, encontrasse dificuldade ao gerenciamento de todos as partidas. Isso toma muito tempo e é cansativo, algumas dessas atividades são: definir os jogadores e seus respectivos times; escolher uma forma de competição que se adeque ao número de jogadores e o tempo disponível para a competição; definição das partidas e como encaixar de forma a todos os jogadores participem sem ficar muito tempo esperando sua partida; gerenciamento de resultados das partidas; e definição do balanço de resultados do campeonato;
+
+Na Play Store não existe num tipo de app que atenda essas necessidades ou mesmo uma aplicação mais genérica.
+
+Possiveis dificuldades nesse projeto: não conenhecimento suficiente em android; dificuldade quem fornecer uma usabilidade agradável não usuário; não haver teste em ambiente real para verificar a eficácia da aplicação.
+
+Progesso
+
+Definição do nome do app - OK(Sujeito a mudança) 23/10/2015
+Escolha do Icone do app - OK(Sujeito a mudança) 23/10/2015
+Escolha do SDK minímo, KitKat - (40% do merdado - Possível mudança) OK 23/10/2015
+Configuração de versionamento - Em aberto
+Configuração de IDE em Desktop - Em aberto
+Configuração de IDE em Smartphone - Em aberto
+Prototipação, throw-away, de Telas Sujeito a análise de usuário - Não iniciado
+
+ 
+
+
+ 
