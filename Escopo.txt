@@ -1,20 +1,20 @@
 Projeto app Campeonato de VideoGame
 
-Ao realizar compeonatos de futebol virtual como dois ou mais consoles, encontrasse dificuldade ao gerenciamento de todos as partidas. Isso toma muito tempo e é cansativo, algumas dessas atividades são: definir os jogadores e seus respectivos times; escolher uma forma de competição que se adeque ao número de jogadores e o tempo disponível para a competição; definição das partidas e como encaixar de forma a todos os jogadores participem sem ficar muito tempo esperando sua partida; gerenciamento de resultados das partidas; e definição do balanço de resultados do campeonato;
+Ao realizar compeonatos de futebol virtual como dois ou mais consoles, encontrasse dificuldade ao gerenciamento de todos as partidas. Isso toma muito tempo e ï¿½ cansativo, algumas dessas atividades sï¿½o: definir os jogadores e seus respectivos times; escolher uma forma de competiï¿½ï¿½o que se adeque ao nï¿½mero de jogadores e o tempo disponï¿½vel para a competiï¿½ï¿½o; definiï¿½ï¿½o das partidas e como encaixar de forma a todos os jogadores participem sem ficar muito tempo esperando sua partida; gerenciamento de resultados das partidas; e definiï¿½ï¿½o do balanï¿½o de resultados do campeonato;
 
-Na Play Store não existe num tipo de app que atenda essas necessidades ou mesmo uma aplicação mais genérica.
+Na Play Store nï¿½o existe num tipo de app que atenda essas necessidades ou mesmo uma aplicaï¿½ï¿½o mais genï¿½rica.
 
-Possiveis dificuldades nesse projeto: não conenhecimento suficiente em android; dificuldade quem fornecer uma usabilidade agradável não usuário; não haver teste em ambiente real para verificar a eficácia da aplicação.
+Possiveis dificuldades nesse projeto: nï¿½o conenhecimento suficiente em android; dificuldade quem fornecer uma usabilidade agradï¿½vel nï¿½o usuï¿½rio; nï¿½o haver teste em ambiente real para verificar a eficï¿½cia da aplicaï¿½ï¿½o.
 
 Progesso
 
-Definição do nome do app - OK(Sujeito a mudança) 23/10/2015
-Escolha do Icone do app - OK(Sujeito a mudança) 23/10/2015
-Escolha do SDK minímo, KitKat - (40% do merdado - Possível mudança) OK 23/10/2015
-Configuração de versionamento - Em aberto
-Configuração de IDE em Desktop - Em aberto
-Configuração de IDE em Smartphone - Em aberto
-Prototipação, throw-away, de Telas Sujeito a análise de usuário - Não iniciado
+Definiï¿½ï¿½o do nome do app - OK(Sujeito a mudanï¿½a) 23/10/2015
+Escolha do Icone do app - OK(Sujeito a mudanï¿½a) 23/10/2015
+Escolha do SDK minï¿½mo, KitKat - (40% do merdado - Possï¿½vel mudanï¿½a) OK 23/10/2015
+Configuraï¿½ï¿½o de versionamento - OK 23/10/2015
+Configuraï¿½ï¿½o de IDE em Desktop - OK 23/10/2015
+Configuraï¿½ï¿½o de IDE em Smartphone - OK 23/10/2015
+Prototipaï¿½ï¿½o, throw-away, de Telas Sujeito a anï¿½lise de usuï¿½rio - Nï¿½o iniciado
 
  
 
